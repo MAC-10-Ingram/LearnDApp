@@ -1,0 +1,11 @@
+오픈 체펠린
+설치 ) npm i @openzeppelin/contracts
+
+remixd: 온라인 버전의 remix IDE와 로컬을 연결해주는 도구
+설치 ) npm install -g @remix-project/remixd
+
+
+로컬 파일과 remix IDE를 연결 ) remixd -s . --remix-ide https://remix.ethereum.org
+remixd -s 폴더위치 --remix-ide 주소
+
+https://evst.tistory.com/33
